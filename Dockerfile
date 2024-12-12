@@ -4,7 +4,7 @@
 FROM python:latest
 
 # Author: Arnold
-LABEL maintainer="Arnold <g16a7782@gmail.com>"
+LABEL maintainer="Arnold <88a7786y82@gmail.com>"
 
 # Install redis driver for python and the redis mock
 RUN pip3 install redis && pip3 install mockredispy
